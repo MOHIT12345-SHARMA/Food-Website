@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../../../Downloads/food_img"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "website_flexbox"
+	}
+}
